@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  LoanCalculator
+
+  Created by Kenneth Zhang on 2016/9/13.
+  Copyright © 2016年 Kenneth Zhang. All rights reserved.
+*/
+
+CFBundleDisplayName = "LoanCalculator";
