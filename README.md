@@ -6,6 +6,10 @@
 
 An iOS loan calculator APP customized for Chinese house loan lender written in the Swift 3 language.
 
+# App Store
+
+https://itunes.apple.com/gb/app/dai-kuan-ji-suan-qi-mai-fang/id1154030473
+
 # 截图
 
 ![Icon-App-60x60@2x.png](https://github.com/yonient/LoanCalculator/raw/master/Screenshot/commercial.jpg)
@@ -21,7 +25,7 @@ Swift 3+
 ## Optional
 Carthage
 
-# 依赖 (Denpendencies)
+# Denpendencies
 使用了 Alamofire 和 Snapkit 框架。
 Used Alamofire and Snapkit Framework. 
 
