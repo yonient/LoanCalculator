@@ -8,7 +8,10 @@ An iOS loan calculator APP customized for Chinese house loan lender written in t
 
 # 截图
 
-<img src="http://upload-images.jianshu.io/upload_images/3107501-038dd571b0e27f02.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%" height="50%"><img src="http://upload-images.jianshu.io/upload_images/3107501-00c9c8fa2ed7475a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%" height="50%"><img src="http://upload-images.jianshu.io/upload_images/3107501-70cf45f54095f95b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%" height="50%"><img src="http://upload-images.jianshu.io/upload_images/3107501-ff0587097c9dc25c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="50%" height="50%">
+![Icon-App-60x60@2x.png](https://github.com/yonient/LoanCalculator/raw/master/Screenshot/commercial.jpg)
+![Icon-App-60x60@2x.png](https://github.com/yonient/LoanCalculator/raw/master/Screenshot/mixed.jpg)
+![Icon-App-60x60@2x.png](https://github.com/yonient/LoanCalculator/raw/master/Screenshot/datechoose.jpg)
+![Icon-App-60x60@2x.png](https://github.com/yonient/LoanCalculator/raw/master/Screenshot/detail.jpg)
 
 # 平台
 ## Required
